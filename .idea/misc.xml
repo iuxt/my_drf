@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (my_drf)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (my_drf)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8.20 WSL (Ubuntu): (/home/iuxt/code/my_drf/.venv/bin/python3.8)" project-jdk-type="Python SDK" />
 </project>
